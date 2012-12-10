@@ -54,3 +54,10 @@ NOTE: Original Dune 2 game files are needed.
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/pixmaps/%{name}.png
 
+
+
+%changelog
+* Wed Feb 22 2012 Andrey Bondrov <abondrov@mandriva.org> 0.96.2-1
++ Revision: 779233
+- imported package dunelegacy
+
