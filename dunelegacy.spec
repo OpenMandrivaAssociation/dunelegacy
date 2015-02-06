@@ -1,6 +1,6 @@
 Name:		dunelegacy
 Version:	0.96.2
-Release:	%mkrel 1
+Release:	2
 Summary:	Open-source Dune II engine
 License:	GPLv2+
 Group:		Games/Strategy
