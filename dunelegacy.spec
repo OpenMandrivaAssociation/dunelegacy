@@ -4,7 +4,7 @@ Release:	2
 Summary:	Open-source Dune II engine
 License:	GPLv2+
 Group:		Games/Strategy
-URL:		http://dunelegacy.sourceforge.net/
+URL:		https://dunelegacy.sourceforge.net/
 Source0:	http://www.myway.de/richieland/%{name}-%{version}-src.tar.bz2
 BuildRequires:	SDL_mixer-devel
 BuildRequires:	SDL-devel
